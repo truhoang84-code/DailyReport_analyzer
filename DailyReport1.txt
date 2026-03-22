@@ -1,0 +1,9 @@
+INFO: Guest checked in
+WARNING: Pool towel shortage
+ERROR: Delay in food service
+INFO: Event setup completed
+ERROR: Customer complaint loggedin
+INFO: VIP Guest Checked in
+ERROR: Glitch guest with high expectations
+WARNING: Low on F&B Menus at the pools
+INFO: All Cabanas are sold out
