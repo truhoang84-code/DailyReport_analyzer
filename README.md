@@ -2,9 +2,7 @@
 Python based log analyzer simulating hospitality operations and DevOps monitoring
 
 ## Overview
-This project is a Python-based log analyzer that parses log files and identifies key events such as errors, warnings, and operational activities.
-
-The project is inspired by real-world hospitality operations and simulates how DevOps engineers monitor systems and detect issues.
+This project is a Python-based log analyzer that parses log files and identifies key events such as errors, warnings, and operational activities.The project is inspired by real-world hospitality operations and simulates how DevOps engineers monitor systems and detect issues.
 
 ## Features
 - Reads log files line by line
